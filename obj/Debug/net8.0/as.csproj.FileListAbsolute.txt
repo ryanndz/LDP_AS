@@ -1,0 +1,56 @@
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.AssemblyInfoInputs.cache
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.AssemblyInfo.cs
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.csproj.CoreCompileInputs.cache
+C:\Users\Ryan.lopes2506\aula10\as\bin\Debug\net8.0\as.exe
+C:\Users\Ryan.lopes2506\aula10\as\bin\Debug\net8.0\as.deps.json
+C:\Users\Ryan.lopes2506\aula10\as\bin\Debug\net8.0\as.runtimeconfig.json
+C:\Users\Ryan.lopes2506\aula10\as\bin\Debug\net8.0\as.dll
+C:\Users\Ryan.lopes2506\aula10\as\bin\Debug\net8.0\as.pdb
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.dll
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\refint\as.dll
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.pdb
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\as.genruntimeconfig.cache
+C:\Users\Ryan.lopes2506\aula10\as\obj\Debug\net8.0\ref\as.dll
+C:\Users\Usuario\Documents\as\bin\Debug\net8.0\as.exe
+C:\Users\Usuario\Documents\as\bin\Debug\net8.0\as.deps.json
+C:\Users\Usuario\Documents\as\bin\Debug\net8.0\as.runtimeconfig.json
+C:\Users\Usuario\Documents\as\bin\Debug\net8.0\as.dll
+C:\Users\Usuario\Documents\as\bin\Debug\net8.0\as.pdb
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.AssemblyInfo.cs
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.dll
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\refint\as.dll
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.pdb
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\as.genruntimeconfig.cache
+C:\Users\Usuario\Documents\as\obj\Debug\net8.0\ref\as.dll
+C:\Users\carra\OneDrive\Área de Trabalho\as\bin\Debug\net8.0\as.exe
+C:\Users\carra\OneDrive\Área de Trabalho\as\bin\Debug\net8.0\as.deps.json
+C:\Users\carra\OneDrive\Área de Trabalho\as\bin\Debug\net8.0\as.runtimeconfig.json
+C:\Users\carra\OneDrive\Área de Trabalho\as\bin\Debug\net8.0\as.dll
+C:\Users\carra\OneDrive\Área de Trabalho\as\bin\Debug\net8.0\as.pdb
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.AssemblyInfoInputs.cache
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.AssemblyInfo.cs
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.csproj.CoreCompileInputs.cache
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.dll
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\refint\as.dll
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.pdb
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\as.genruntimeconfig.cache
+C:\Users\carra\OneDrive\Área de Trabalho\as\obj\Debug\net8.0\ref\as.dll
+C:\Users\Usuario\Desktop\as\bin\Debug\net8.0\as.exe
+C:\Users\Usuario\Desktop\as\bin\Debug\net8.0\as.deps.json
+C:\Users\Usuario\Desktop\as\bin\Debug\net8.0\as.runtimeconfig.json
+C:\Users\Usuario\Desktop\as\bin\Debug\net8.0\as.dll
+C:\Users\Usuario\Desktop\as\bin\Debug\net8.0\as.pdb
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.dll
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\refint\as.dll
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.pdb
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\as.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\as\obj\Debug\net8.0\ref\as.dll
